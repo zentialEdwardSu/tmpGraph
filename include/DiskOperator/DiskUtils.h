@@ -6,8 +6,6 @@
 #define TMPGRAPH_DISKUTILS_H
 
 #include<stdio.h>
-#include<stdint.h>
-#include<math.h>
 #include"GraphStruct.h"
 
 typedef enum{
